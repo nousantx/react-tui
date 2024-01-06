@@ -24,9 +24,13 @@ This repository is a lab for React JS with TenoxUI CSS Framework. index.js file 
 
 ## Install
 
+Add TenoxUI to your project :
+
 ```bash
 npm i @tenoxui/react
 ```
+
+Edit `App.jsx` :
 
 ```jsx
 import { useEffect } from "react";
